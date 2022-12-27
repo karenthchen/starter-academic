@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
+      title: Tzu-Hsin Karen Chen
       image:
         filename: hero-academic.png
       cta:
